@@ -8,15 +8,15 @@
 
 <div align="center">
   <h3>
-    <a href="https://rodoct.github.io/Recipe-Page/">
+    <a href="https://rodoct.github.io/My-Gallery-Page/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://legacy.devchallenges.io/solutions/FAYNWqrnyIDngD5sU7dN">
+    <a href="https://legacy.devchallenges.io/solutions/RY46Vwbk4YDfWxaljcch">
       Solution
     </a>
     <span> | </span>
-    <a href="https://legacy.devchallenges.io/challenges/OEKdUZ6xs0h99C38XVht">
+    <a href="https://legacy.devchallenges.io/challenges/gcbWLxG6wdennelX7b8I">
       Challenge
     </a>
   </h3>
